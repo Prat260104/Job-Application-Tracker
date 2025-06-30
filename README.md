@@ -56,12 +56,15 @@ APP101,Google,SDE-1,Applied,2025-06-29
 
 ---
 
-👨‍💻 Author
-Prateek Rai
-📍 B.Tech CSE (AI) | KIET Ghaziabad
-📍 BS in Data Science | IIT Madras
-🔗 GitHub: Prat260104
-🔗 LinkedIn: linkedin.com/in/prateek-rai-969136342
+## 👨‍💻 Author
+
+**Prateek Rai**  
+🎓 B.Tech CSE (AI) | KIET Ghaziabad  
+🎓 BS in Data Science | IIT Madras  
+
+- 🔗 [GitHub Profile](https://github.com/Prat260104)
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/prateek-rai-969136342)
+
 
 
 
