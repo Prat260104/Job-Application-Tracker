@@ -21,5 +21,15 @@ A simple yet effective **Java-based console application** to keep track of job a
 
 ---
 
+## 🚀 Getting Started
+
+### ✅ Step 1: Compile the Code
+
+```bash
+javac src/*.java
+```
+
+
+
 
 
