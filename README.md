@@ -23,11 +23,39 @@ A simple yet effective **Java-based console application** to keep track of job a
 
 ## 🚀 Getting Started
 
-### ✅ Step 1: Compile the Code
+## ✅ Step 1: Compile the Code
 
 ```bash
 javac src/*.java
 ```
+
+---
+
+## Step 2: Run the Program
+```bash
+cd src
+java Main
+```
+
+---
+
+## 🧪 Sample Menu UI
+
+🎯 Job Application Tracker
+1. Add New Application
+2. View All Applications
+3. Filter by Status
+4. Exit
+👉 Enter your choice:
+
+---
+
+## 📝 Data Format
+
+APP101,Google,SDE-1,Applied,2025-06-29
+
+---
+
 
 
 
